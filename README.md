@@ -34,7 +34,7 @@ This website presents not just project outcomes, but also the **engineering proc
 | Project | Focus | Current portfolio status |
 | --- | --- | --- |
 | [Agentic Paper Trader](https://github.com/sandhya1631/agentic-paper-trader) | AI-assisted paper trading, risk checks, human approval, and auditability | In development |
-| [EduResumePRO](https://github.com/dhruvpatel0003/eduResumePRO) | React/Node.js application, observability, containers, CI/CD | Project work |
+| [EduResumePRO] | React/Node.js application, observability, containers, CI/CD | Project work |
 | ChatCollab — Local Human–AI Collaboration | Exploring a local adaptation with Ollama and role-based AI agents | Local adaptation planned |
 | Local-First AI Template Maker | Brand-aware, editable templates and local AI; future SaaS path | Requirements in progress |
 | Bakery ERP & Wholesale Platform | Bakery operations, orders, inventory, wholesale distribution; SaaS vision | Discovery and market research |
@@ -63,7 +63,6 @@ To display your own designs:
 1. Export each Figma frame as a PNG.
 2. Save the files to:
    - `assets/images/agentic-dashboard.png`
-   - `assets/images/agentic-trade-approval.png`
 3. In `portfolioData.js`, locate the project with `id: 'agentic-paper-trader'`.
 4. Set its `figma.url` to the shareable prototype URL.
 5. Verify that Figma's sharing permissions allow viewers to open it.
@@ -145,16 +144,6 @@ Lifecycle statuses supported by the site include `completed`, `in-progress`, `no
 6. After deployment, test the public site in a private/incognito browser window.
 
 For a repository named `dhruvpatel0003.github.io`, the default address is **https://dhruvpatel0003.github.io/**. For a repository named `my-portfolio`, it is typically **https://dhruvpatel0003.github.io/my-portfolio/**.
-
-## Before publishing
-
-- [ ] Add the final `resume.pdf`.
-- [ ] Export the two real Figma screenshots and configure the prototype URL.
-- [ ] Verify GitHub, LinkedIn, email, and project links.
-- [ ] Confirm project statuses and technology descriptions are accurate.
-- [ ] Remove private keys, `.env` files, confidential materials, and non-public academic work.
-- [ ] Decide which personal contact details you want publicly visible.
-- [ ] Test desktop and mobile layouts and inspect browser console errors.
 
 ## Contact
 
